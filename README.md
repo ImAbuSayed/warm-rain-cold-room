@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warm-rain-cold-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Warm Rain Cold Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-rain-cold-room/) |
+| **Get License** | [Get a Licensing Quote for Warm Rain Cold Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-rain-cold-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the thunder rolling right under my skin
+> The night is heavy, won't you let the weather in
+> Your shadow dances by the fire in the dark
+> A single whisper is enough to light the spark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
